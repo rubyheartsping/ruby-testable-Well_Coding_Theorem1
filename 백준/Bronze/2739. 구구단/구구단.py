@@ -1,0 +1,5 @@
+b = int(input())
+
+for num in range(1, 10):
+    print(f"{b} * {num} = {b * num}")
+    
