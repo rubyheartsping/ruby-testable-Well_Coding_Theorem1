@@ -1,10 +1,10 @@
 # [level 1] [PCCE 기출문제] 10번 / 공원 - 340198 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340198?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340198?language=cpp) 
 
 ### 성능 요약
 
-메모리: 9.32 MB, 시간: 76.23 ms
+메모리: 4.22 MB, 시간: 1.42 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 17일 15:13:41
+2026년 02월 19일 17:08:22
 
 ### 문제 설명
 
