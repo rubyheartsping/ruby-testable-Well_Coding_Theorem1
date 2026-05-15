@@ -26,7 +26,7 @@ def solution(k, ranges):
         if a > actual_b:
             result.append(-1)
         else:
-            result.append(prefix[actual_b] - prefix[a])
+            result.append(prefix[b + len(prefix) - 1] - prefix[a])
         
     return result
         
